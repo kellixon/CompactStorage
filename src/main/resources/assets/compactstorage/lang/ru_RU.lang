@@ -1,0 +1,9 @@
+tile.compactchest.name=Компактный сундук
+tile.chestBuilder.name=Конструктор сундука
+
+item.backpack.name=Рюкзак
+
+itemGroup.compactStorage=Compact Storage
+
+text.columns=Столбцы
+text.rows=Ряды
